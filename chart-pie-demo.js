@@ -9,7 +9,7 @@ var myPieChart = new Chart(ctx, {
   data: {
     labels: ["CCtip.io", "Founders", "ATG Holders", "Ready For Centralised Exchange"],
     datasets: [{
-      data: [10.00, 5.00, 5.25, 79.75],
+      data: [50000, 5500, 100089.037, 844410.963 ],
   
   
   backgroundColor: ['#17a2b8', '#dc3545', '#fd7e14', '#38b495'],
