@@ -20,4 +20,8 @@ We are purely a Peer 2 Peer Network. Built Open Source for any developers. We ma
 
 # ATG' FEATURES
 
-<b>Fast,global payments with</b> <b>Nearly non-existent Fees </b>
+<b>Fast,global payments with</b> <b>Nearly non-existent Fees within the ATG wallet </b>
+
+<b>ATGMarkets</b>
+
+Will host trading of ATG, SLP, ERC20 and leading cryptos already listed on central exchanges. Users will be able to list their own Tokens/coins & track your progress carefully.
