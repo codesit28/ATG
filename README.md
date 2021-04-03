@@ -24,4 +24,6 @@ We are purely a Peer 2 Peer Network. Built Open Source for any developers. We ma
 
 <b>ATGMarkets</b>
 
-Will host trading of ATG, SLP, ERC20 and leading cryptos already listed on central exchanges. Users will be able to list their own Tokens/coins & track your progress carefully.
+ATGMarkets will host a user friendly trading platform to trade ATG, SLP, ERC20 and leading cryptos (e.g. BTC, ETH..) 
+Users will be able to list their own Tokens/coins & track your progress carefully.
+
