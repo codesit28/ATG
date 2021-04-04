@@ -7,7 +7,7 @@ var ctx = document.getElementById("myPieChart");
 var myPieChart = new Chart(ctx, {
   type: 'pie',
   data: {
-    labels: ["CCtip.io", "Founders", "ATG Holders", "Ready For Centralised Exchange"],
+    labels: ["CCTip Decentralised Market ", "Founders", "ATG Holders", "Ready For Centralised Exchange"],
     datasets: [{
       data: [50000, 5500, 7031.034, 944500.963 ],
   
