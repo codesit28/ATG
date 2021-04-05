@@ -7,7 +7,7 @@ var ctx = document.getElementById("myAreaChart");
 var myLineChart = new Chart(ctx, {
   type: 'line',
   data: {
-    labels: [ "Mar 9 @ 11:59 PM", "Mar 10 @ 11:59 PM", "Mar 11 @ 11:59 PM", "Mar 12 @ 11:59 PM", "Mar 13 @ 11:59 PM", "Mar 14 @ 11:59 PM", "Mar 15 @ 11:59 PM", "Mar 16 @ 11:59 PM", "Mar 17 @ 11:59 PM", "Mar 18 @ 11:59 PM", "Mar 19 @ 11:59 PM", "Mar 20 @ 11:59 PM", "Mar 21 @ 11:59 PM", "Mar 22 @ 11:59 PM ", "Mar 23 @ 11:59 PM", "Mar 24 @ 11:59 PM", "Mar 25 @ 11:59 PM", "Mar 26 @ 11:59 PM", "Mar 27 @ 11:59 PM", "Mar 28 @ 11:59 PM", "Mar 29 @ 11:59 PM", "Mar 30 @ 11:59 PM", "Mar 31 @ 11:59 PM", "Apr 1 @ 11:59 PM", "Apr 2 @ 11:59 PM", "Apr 3 @ 11:59 PM", Apr 4 @ 11:59 PM   ],
+    labels: [ "Mar 9 @ 11:59 PM", "Mar 10 @ 11:59 PM", "Mar 11 @ 11:59 PM", "Mar 12 @ 11:59 PM", "Mar 13 @ 11:59 PM", "Mar 14 @ 11:59 PM", "Mar 15 @ 11:59 PM", "Mar 16 @ 11:59 PM", "Mar 17 @ 11:59 PM", "Mar 18 @ 11:59 PM", "Mar 19 @ 11:59 PM", "Mar 20 @ 11:59 PM", "Mar 21 @ 11:59 PM", "Mar 22 @ 11:59 PM ", "Mar 23 @ 11:59 PM", "Mar 24 @ 11:59 PM", "Mar 25 @ 11:59 PM", "Mar 26 @ 11:59 PM", "Mar 27 @ 11:59 PM", "Mar 28 @ 11:59 PM", "Mar 29 @ 11:59 PM", "Mar 30 @ 11:59 PM", "Mar 31 @ 11:59 PM", "Apr 1 @ 11:59 PM", "Apr 2 @ 11:59 PM", "Apr 3 @ 11:59 PM", "Apr 4 @ 11:59 PM",   ],
     datasets: [{
       label: "Price",
       lineTension: 0.3,
